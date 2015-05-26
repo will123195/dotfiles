@@ -1,0 +1,14 @@
+[user]
+	name = will123195
+	email = will123195@gmail.com
+[color]
+	ui = true
+[alias]
+	lg = log --oneline --decorate --graph --all
+	s = status -s
+[push]
+	default = simple
+[pull]
+	rebase = true
+[branch]
+	autosetuprebase = always
